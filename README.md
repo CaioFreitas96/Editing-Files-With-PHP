@@ -1,2 +1,2 @@
 # EditingFilesWithPHP
-Lendo e Editando arquivos com PHP.
+Lendo e editando arquivos com PHP.
